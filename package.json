@@ -1,0 +1,17 @@
+{
+  "name": "test_amazon",
+  "version": "1.0.0",
+  "description": "tests for amazon purchase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.5.1"
+  },
+  "devDependencies": {
+    "eslint-plugin-cypress": "^2.12.1"
+  }
+}
